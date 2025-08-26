@@ -3,6 +3,10 @@ https://drive.google.com/file/d/1jzeNU1EKnK81PyTsrx0ujfNl-t0Jo8uE/view
 
 It is Task 9 of Medical Segmentation Decathlon
 
+dataset sample with corresponding masks:
+
+![dataset Sample](https://github.com/sowad223/spleen-segmentation/blob/main/__results___0_1.png)
+
 # spleen-segmentation
 # Spleen Segmentation using U-Net
 
