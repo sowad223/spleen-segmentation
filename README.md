@@ -1,3 +1,8 @@
+# Dataset
+https://drive.google.com/file/d/1jzeNU1EKnK81PyTsrx0ujfNl-t0Jo8uE/view
+
+It is Task 9 of Medical Segmentation Decathlon
+
 # spleen-segmentation
 # Spleen Segmentation using U-Net
 
