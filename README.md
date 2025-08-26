@@ -116,13 +116,6 @@ Training includes the following augmentations:
 - Confusion matrix generation
 - Training progress tracking
 
-## Troubleshooting
-
-### Common Issues
-
-1. **No valid slices found**: Check that image and label directories contain matching files
-2. **CUDA out of memory**: Reduce batch size or use CPU training
-3. **File loading errors**: Ensure NIfTI files are not corrupted
 
 ### File Matching
 The code automatically matches image and label files based on filename (excluding extensions). Files with `.nii` or `.nii.gz` extensions are supported.
